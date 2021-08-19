@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18134" started-at="2021-06-16T08:33:04Z" finished-at="2021-06-16T08:33:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18134" started-at="2021-06-16T08:33:04Z" finished-at="2021-06-16T08:33:22Z">
+      <class name="com.sdet.TC_Login">
+        <test-method status="PASS" signature="login_test()[pri:0, instance:com.sdet.TC_Login@69930714]" name="login_test" duration-ms="18111" started-at="2021-06-16T08:33:04Z" finished-at="2021-06-16T08:33:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_test -->
+      </class> <!-- com.sdet.TC_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
